@@ -1,2 +1,3 @@
 # git_test
-Learning how to create a GitHub repo!
+My first GitHub repo! 
+Hello Odin :3
